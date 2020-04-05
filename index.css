@@ -1,5 +1,11 @@
 body {
 
 background-color: black;
+color:white;
 
+}
+
+.header{
+  @font-face { font-family: Agrandir; src:url ('Agrandir-GrandHeavy.otf');}
+  @font-face { font-family: Agrandir; font-weight: GrandHeavy; src:url ('Agrandir-GrandHeavy.otf');}
 }
