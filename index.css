@@ -5,7 +5,52 @@ color:white;
 
 }
 
+
 .header{
-  @font-face { font-family: Agrandir; src:url ('Agrandir-GrandHeavy.otf');}
-  @font-face { font-family: Agrandir; font-weight: GrandHeavy; src:url ('Agrandir-GrandHeavy.otf');}
+
+    margin-top: 34px;
+    margin-bottom: 64px;
+    font-size: 64pt;
+    font-family: 'Agrandir Grand Heavy';
+    display: flex;
+
+  }
+
+  .dot{
+    height: 20px;
+    width: 20px;
+    border: 2px solid white;
+    background-color: black;
+    border-radius: 50%;
+    margin-top: 34px;
+    margin-left: 40px;
+  }
+
+  .dot:hover{
+    opacity: 0.25;
+    transition: 0.25s;
+  }
+
+  .websitename{
+ width:100%;
+ text-align: center;
+  }
+
+.list{
+  font-family: 'Agrandir Grand Heavy';
+  font-size: 34pt;
+  color:white;
+}
+
+#person {
+  text-align: center;
+}
+
+#person:hover{
+  text-decoration: underline;
+}
+
+a{
+  color:white;
+  text-decoration: none;
 }
