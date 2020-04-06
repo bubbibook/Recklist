@@ -1,0 +1,81 @@
+.dot{
+    height: 20px;
+    width: 20px;
+    border: 2px solid white;
+    background-color: black;
+    border-radius: 50%;
+    margin-top: 34px;
+    margin-left: 40px;
+  }
+
+
+body{
+  background-color: black;
+  color:white;
+}
+
+
+.introsection{
+  margin-top: 268px;
+  margin-bottom: 160px;
+  display:flex;
+}
+
+.photographs{
+ z-index: -1;
+ margin-left: 150px;
+ display: flex;
+}
+
+.photographs img{
+  width:500px;
+  height:896px;
+  margin-right: 20px;
+}
+
+.names{
+  text-align: right;
+  font-family: 'Agrandir Grand Heavy';
+  font-size: 64pt;
+  margin-right: 120px;
+  z-index: 100;
+}
+
+.listsection{
+  display: flex;
+}
+
+.section{
+  text-align: left;
+  font-family: 'adrianna-extended';
+  font-style: sans-serif;
+  font-weight: 800;
+  font-style: italic;
+  font-size: 23pt;
+  margin-right: 144px;
+  margin-left: 40px;
+}
+
+.list{
+  font-family: 'Agrandir Grand Light';
+  font-size: 30pt;
+  margin-bottom: 136px;
+}
+
+.list li{
+  margin-bottom: 20px;
+}
+
+.list a{
+  color:white;
+  text-decoration: none;
+}
+
+.list a:visted{
+  color:white;
+}
+
+.list a:hover{
+  font-family: 'Agrandir Grand Heavy';
+  font-size: 28pt;
+}

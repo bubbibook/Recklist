@@ -8,9 +8,9 @@ color:white;
 
 .header{
 
-    margin-top: 34px;
+
     margin-bottom: 64px;
-    font-size: 64pt;
+    font-size: 84pt;
     font-family: 'Agrandir Grand Heavy';
     display: flex;
 
@@ -22,7 +22,7 @@ color:white;
     border: 2px solid white;
     background-color: black;
     border-radius: 50%;
-    margin-top: 34px;
+    margin-top: 44px;
     margin-left: 40px;
   }
 
@@ -53,4 +53,8 @@ color:white;
 a{
   color:white;
   text-decoration: none;
+}
+
+a:visited{
+  color:white;
 }
