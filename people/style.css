@@ -8,6 +8,10 @@
     margin-left: 40px;
   }
 
+  .websitename{
+   width:100%;
+   text-align: center;
+    }
 
 body{
   background-color: black;
@@ -18,8 +22,12 @@ body{
 .introsection{
   margin-top: 268px;
   margin-bottom: 160px;
+  margin-right: 150px;
+  margin-left: 120px;
+  width:95%;
   display:flex;
   height:896px;
+  align-content: center;
 }
 
 .photographs{
@@ -41,6 +49,7 @@ body{
   margin-right: 120px;
   margin-top: 448px;
   z-index: 100;
+  margin-left: -150px;
 }
 
 .listsection{
