@@ -19,6 +19,7 @@ body{
   margin-top: 268px;
   margin-bottom: 160px;
   display:flex;
+  height:896px;
 }
 
 .photographs{
@@ -38,6 +39,7 @@ body{
   font-family: 'Agrandir Grand Heavy';
   font-size: 64pt;
   margin-right: 120px;
+  margin-top: 448px;
   z-index: 100;
 }
 
