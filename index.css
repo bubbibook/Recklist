@@ -60,15 +60,112 @@ a:visited{
   color:white;
 }
 
-#frank img{
+#left img{
   height:250px;
   width:250px;
   display:none;
 }
 
-#frank:hover img{
+#left:hover img{
   display:flex;
   position: absolute;
   margin-left: 12%;
+  z-index: -100;
+}
+
+#right img{
+  height:250px;
+  width:250px;
+  display:none;
+}
+
+#right:hover img{
+  display:flex;
+  position: absolute;
+  margin-left: 70%;
+  z-index: -100;
+}
+
+#julie img{
+  height:250px;
+  width:250px;
+  display:none;
+}
+
+#julie:hover img{
+  display:flex;
+  position: absolute;
+  margin-left: 70%;
+  margin-top: -12%;
+  z-index: -100;
+}
+
+#james img{
+  height:250px;
+  width:250px;
+  display:none;
+}
+
+#james:hover img{
+  display:flex;
+  position: absolute;
+  margin-left: 12%;
+  margin-top: -12%;
+  z-index: -100;
+}
+
+#susan img{
+  height:250px;
+  width:250px;
+  display:none;
+}
+
+#susan:hover img{
+  display:flex;
+  position: absolute;
+  margin-left: 70%;
+  margin-top: -12%;
+  z-index: -100;
+}
+
+#josh img{
+  height:250px;
+  width:250px;
+  display:none;
+}
+
+#josh:hover img{
+  display:flex;
+  position: absolute;
+  margin-left: 12%;
+  margin-top: -12%;
+  z-index: -100;
+}
+
+#erika img{
+  height:250px;
+  width:250px;
+  display:none;
+}
+
+#erika:hover img{
+  display:flex;
+  position: absolute;
+  margin-left: 70%;
+  margin-top: -12%;
+  z-index: -100;
+}
+
+#joe img{
+  height:250px;
+  width:250px;
+  display:none;
+}
+
+#joe:hover img{
+  display:flex;
+  position: absolute;
+  margin-left: 12%;
+  margin-top: -12%;
   z-index: -100;
 }
