@@ -1,17 +1,33 @@
-.dot{
+.header{
+
+
+    margin-bottom: 64px;
+    font-size: 84pt;
+    font-family: 'Agrandir Grand Heavy';
+    display: flex;
+
+  }
+
+  .dot{
     height: 20px;
     width: 20px;
     border: 2px solid white;
     background-color: black;
     border-radius: 50%;
-    margin-top: 34px;
+    margin-top: 44px;
     margin-left: 40px;
   }
 
+  .dot:hover{
+    opacity: 0.25;
+    transition: 0.25s;
+  }
+
   .websitename{
-   width:100%;
-   text-align: center;
-    }
+ width:100%;
+ text-align: center;
+  }
+
 
 body{
   background-color: black;
@@ -65,12 +81,23 @@ body{
   font-size: 23pt;
   margin-right: 144px;
   margin-left: 40px;
+  width: 10%;
+}
+
+#kanyebooks{
+  margin-right: 6%;
+}
+
+#kanyebooklist{
+  width:64%;
 }
 
 .list{
   font-family: 'Agrandir Grand Light';
   font-size: 30pt;
   margin-bottom: 136px;
+  text-align: left;
+  width:65%;
 }
 
 .list li{
