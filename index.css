@@ -59,3 +59,16 @@ a{
 a:visited{
   color:white;
 }
+
+#frank img{
+  height:250px;
+  width:250px;
+  display:none;
+}
+
+#frank:hover img{
+  display:flex;
+  position: absolute;
+  margin-left: 12%;
+  z-index: -100;
+}
