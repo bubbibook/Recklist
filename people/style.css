@@ -132,3 +132,52 @@ body{
   font-family: 'Agrandir Grand Heavy';
   font-size: 28pt;
 }
+
+.comment {
+  color:white;
+  position: relative;
+}
+
+.comment div {
+  /*visiblity: hidden; */
+
+  display: none;
+  position: absolute;
+  top: 0;
+  left:100%;
+  margin-top: -30px; /* approx adjustment for arrow */
+  margin-left: 25px; /* approx adjustment for arrow */
+}
+
+.comment a:hover + div {
+  cursor: pointer;
+  display: block;
+  /*visibility: visible; */
+  width: 180px;
+  line-height: 20px;
+  padding: 8px;
+  font-size: 20px;
+  text-align: center;
+  z-index: 999;
+  color: rgb(0, 0, 0);
+  background: rgb(255, 255, 255);
+  border: 4px solid rgb(255, 255, 255);
+  border-radius: 5px;
+  -webkit-transition: opacity 100ms ease-in;
+  -o-transition: opacity 100ms ease-in;
+  -moz-transition: opacity 100ms ease-in;
+  transition: opacity 100ms ease-in;
+  pointer-events: none;
+}
+
+.comment div:after {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 0;
+  border-width: 10px;
+  border-style: solid;
+  border-color: transparent #FFFFFF transparent transparent;
+  top: 22px;
+  left: -23px;
+}
