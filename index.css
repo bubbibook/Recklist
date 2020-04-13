@@ -169,3 +169,27 @@ a:visited{
   margin-top: -12%;
   z-index: -100;
 }
+
+.description{
+  font-family: 'Agrandir Grand Light';
+  font-size: 34pt;
+  text-align:center;
+  width:100%;
+}
+
+.descriptiontext{
+  margin-left:50%;
+  margin: auto;
+  text-align: left;
+  width:50%;
+}
+
+.footer{
+  font-family: 'Agrandir Grand Light';
+  font-size: 10pt;
+  opacity: 0.5;
+  margin-left: 50%;
+  margin-left: auto;
+  margin-top: 35%;
+  margin-bottom: 1.5%;
+}
