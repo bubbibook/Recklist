@@ -4,9 +4,9 @@
 
 @font-face {
     font-family: 'agrandirgrand_heavy';
-    src: url('agrandir-grandheavy-webfont.woff2') format('woff2'),
-         url('agrandir-grandheavy-webfont.woff') format('woff'),
-         url('agrandir-grandheavy-webfont.otf') format('otf');
+    src: url('https://recklist.com/fonts/agrandir-grandheavy-webfont.woff2') format('woff2'),
+         url('https://recklist.com/fonts/agrandir-grandheavy-webfont.woff') format('woff'),
+         url('https://recklist.com/fonts/agrandir-grandheavy-webfont.otf') format('otf');
 
     font-weight: normal;
     font-style: normal;
@@ -18,9 +18,9 @@
 
 @font-face {
     font-family: 'agrandirgrand_light';
-    src: url('agrandir-grandlight-webfont.woff2') format('woff2'),
-         url('agrandir-grandlight-webfont.woff') format('woff'),
-         url('agrandir-grandlight-webfont.otf') format('otf')
+    src: url('https://recklist.com/fonts/agrandir-grandlight-webfont.woff2') format('woff2'),
+         url('https://recklist.com/fonts/agrandir-grandlight-webfont.woff') format('woff'),
+         url('https://recklist.com/fonts/agrandir-grandlight-webfont.otf') format('otf')
     font-weight: normal;
     font-style: normal;
 
