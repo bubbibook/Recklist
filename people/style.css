@@ -1,3 +1,21 @@
+@font-face {
+font-family: 'Agrandir Grand Heavy';
+src: url('https://recklist.com/fonts/agrandir-grandheavy.otf') format('no404'), url('https://recklist.com/fonts/agrandir-grandheavy.otf') format('otf'), url('https://recklist.com/fonts/agrandir-grandheavy-webfont.woff') format('woff');
+}
+@font-face {
+font-family: 'Agrandir Grand Heavy';
+src: url('agrandir-grandheavy.otf');
+}
+
+@font-face {
+font-family: 'Agrandir Grand Light';
+src: url('https://recklist.com/fonts/agrandir-grandlight.otf') format('no404'), url('https://recklist.com/fonts/agrandir-grandlight.otf') format('otf'), url('https://recklist.com/fonts/agrandir-grandlight-webfont.woff') format('woff');
+}
+@font-face {
+font-family: 'Agrandir Grand Light';
+src: url('agrandir-grandlight.otf');
+}
+
 .header{
 
 
