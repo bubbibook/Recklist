@@ -20,7 +20,7 @@
     font-family: 'agrandirgrand_light';
     src: url('https://recklist.com/fonts/agrandir-grandlight-webfont.woff2') format('woff2'),
          url('https://recklist.com/fonts/agrandir-grandlight-webfont.woff') format('woff'),
-         url('https://recklist.com/fonts/agrandir-grandlight-webfont.otf') format('otf')
+         url('https://recklist.com/fonts/agrandir-grandlight-webfont.otf') format('otf');
     font-weight: normal;
     font-style: normal;
 
