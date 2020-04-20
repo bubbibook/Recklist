@@ -105,20 +105,6 @@ a:visited{
   z-index: -100;
 }
 
-#julie img{
-  height:250px;
-  width:250px;
-  display:none;
-}
-
-#julie:hover img{
-  display:flex;
-  position: absolute;
-  margin-left: 70%;
-  margin-top: -12%;
-  z-index: -100;
-}
-
 #james img{
   height:250px;
   width:250px;
@@ -147,13 +133,13 @@ a:visited{
   z-index: -100;
 }
 
-#josh img{
+#julian img{
   height:250px;
   width:250px;
   display:none;
 }
 
-#josh:hover img{
+#julian:hover img{
   display:flex;
   position: absolute;
   margin-left: 12%;
@@ -161,13 +147,13 @@ a:visited{
   z-index: -100;
 }
 
-#erika img{
+#sundai img{
   height:250px;
   width:250px;
   display:none;
 }
 
-#erika:hover img{
+#sundai:hover img{
   display:flex;
   position: absolute;
   margin-left: 70%;
@@ -175,19 +161,132 @@ a:visited{
   z-index: -100;
 }
 
-#joe img{
+#ariana img{
   height:250px;
   width:250px;
   display:none;
 }
 
-#joe:hover img{
+#ariana:hover img{
+  display:flex;
+  position: absolute;
+  margin-left: 70%;
+  margin-top: -12%;
+  z-index: -100;
+}
+
+#jordan img{
+  height:250px;
+  width:250px;
+  display:none;
+}
+
+#jordan:hover img{
   display:flex;
   position: absolute;
   margin-left: 12%;
   margin-top: -12%;
   z-index: -100;
 }
+
+#lemon img{
+  height:250px;
+  width:250px;
+  display:none;
+}
+
+#lemon:hover img{
+  display:flex;
+  position: absolute;
+  margin-left: 12%;
+  margin-top: -12%;
+  z-index: -100;
+}
+
+#amara img{
+  height:250px;
+  width:250px;
+  display:none;
+}
+
+#amara:hover img{
+  display:flex;
+  position: absolute;
+  margin-left: 70%;
+  margin-top: -12%;
+  z-index: -100;
+}
+
+#shahid img{
+  height:250px;
+  width:250px;
+  display:none;
+}
+
+#shahid:hover img{
+  display:flex;
+  position: absolute;
+  margin-left: 12%;
+  margin-top: -12%;
+  z-index: -100;
+}
+
+#neil img{
+  height:250px;
+  width:250px;
+  display:none;
+}
+
+#neil:hover img{
+  display:flex;
+  position: absolute;
+  margin-left: 70%;
+  margin-top: -12%;
+  z-index: -100;
+}
+
+#noelle img{
+  height:250px;
+  width:250px;
+  display:none;
+}
+
+#noelle:hover img{
+  display:flex;
+  position: absolute;
+  margin-left: 12%;
+  margin-top: -12%;
+  z-index: -100;
+}
+
+#james img{
+  height:250px;
+  width:250px;
+  display:none;
+}
+
+#james:hover img{
+  display:flex;
+  position: absolute;
+  margin-left: 70%;
+  margin-top: -12%;
+  z-index: -100;
+}
+
+#olivia img{
+  height:250px;
+  width:250px;
+  display:none;
+}
+
+#olivia:hover img{
+  display:flex;
+  position: absolute;
+  margin-left: 12%;
+  margin-top: -12%;
+  z-index: -100;
+}
+
 
 .description{
   font-family: 'Agrandir Grand Light';
