@@ -22,6 +22,7 @@ src: url('agrandir-grandlight.otf');
     margin-bottom: 64px;
     font-size: 84pt;
     font-family: 'Agrandir Grand Heavy';
+    width:100%;
     display: flex;
 
   }
@@ -202,4 +203,27 @@ body{
   border-color: transparent #FFFFFF transparent transparent;
   top: 22px;
   left: -23px;
+}
+
+@media only screen and (max-width: 950px) {
+
+  .introsection{
+    display: block;
+    text-align: center;
+    width: 100%;
+  }
+  .photographs{
+    text-align: center;
+    width:100%;
+    margin-left: 0px;
+
+  }
+  .names {
+    text-align: center;
+    width:100%;
+    margin-left: auto;
+    margin-top: 5%;
+  }
+
+
 }
