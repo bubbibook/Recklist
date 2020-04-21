@@ -40,7 +40,7 @@ src: url('agrandir-grandlight.otf');
     opacity: 100%;
     font-family: 'Agrandir Grand Light';
     font-size: 15pt;
-    width:0%;
+    width:20%;
 
   }
   .menu a:hover{
@@ -51,9 +51,13 @@ src: url('agrandir-grandlight.otf');
     }
 
 .websitename{
- width:100%;
+ width:60%;
  text-align: center;
   }
+
+.emptyspace{
+  width:20%;
+}
 
 
 body{
