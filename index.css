@@ -316,3 +316,15 @@ a:visited{
   margin-top: 35%;
   margin-bottom: 1.5%;
 }
+
+@media only screen and (max-width: 1125px) {
+  .description{
+    width:100%;
+    text-align: center;
+  }
+
+  .descriptiontext{
+    width:80%;
+    font-size: 24pt;
+  }
+}
