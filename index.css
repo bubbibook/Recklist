@@ -39,7 +39,7 @@ src: url('agrandir-grandlight.otf');
   opacity: 100%;
   font-family: 'Agrandir Grand Light';
   font-size: 15pt;
-  width:5%;
+  width:20%;
 
 }
 .menu a:hover{
@@ -50,10 +50,15 @@ src: url('agrandir-grandlight.otf');
   }
 
 .websitename{
- width:95%;
+ width:60%;
  text-align: center;
  margin-left: -1%;
   }
+
+.emptyspace{
+  width:20%;
+
+}
 
 .list{
   font-family: 'Agrandir Grand Heavy';
