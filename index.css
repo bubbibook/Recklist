@@ -293,6 +293,62 @@ a:visited{
 }
 
 
+#shannon img{
+  height:250px;
+  width:250px;
+  display:none;
+}
+
+#shannon:hover img{
+  display:flex;
+  position: absolute;
+  margin-left: 70%;
+  margin-top: -12%;
+  z-index: -100;
+}
+
+#miguel img{
+  height:250px;
+  width:250px;
+  display:none;
+}
+
+#miguel:hover img{
+  display:flex;
+  position: absolute;
+  margin-left: 12%;
+  margin-top: -12%;
+  z-index: -100;
+}
+
+#hannah img{
+  height:250px;
+  width:250px;
+  display:none;
+}
+
+#hannah:hover img{
+  display:flex;
+  position: absolute;
+  margin-left: 70%;
+  margin-top: -12%;
+  z-index: -100;
+}
+
+#melina img{
+  height:250px;
+  width:250px;
+  display:none;
+}
+
+#melina:hover img{
+  display:flex;
+  position: absolute;
+  margin-left: 12%;
+  margin-top: -12%;
+  z-index: -100;
+}
+
 .description{
   font-family: 'Agrandir Grand Light';
   font-size: 34pt;
