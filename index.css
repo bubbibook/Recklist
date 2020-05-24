@@ -363,6 +363,20 @@ a:visited{
   z-index: -100;
 }
 
+#bram img{
+  height:250px;
+  width:250px;
+  display:none;
+}
+
+#bram:hover img{
+  display:flex;
+  position: absolute;
+  margin-left: 12%;
+  margin-top: -12%;
+  z-index: -100;
+}
+
 .description{
   font-family: 'Agrandir Grand Light';
   font-size: 34pt;
